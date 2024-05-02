@@ -15,7 +15,7 @@ $ jupyter lab
 
 ## Usage
 
-See the solution [`here`](./solution.ipynb).
+See the solution [`here`](./solution.ipynb) (nbviewer [link](https://nbviewer.org/github/hp0404/text-mining-test/blob/master/solution.ipynb) if the original link doesn't work).
 
 Output:
 - [`0_processed_data.json`](./data/processed/0_processed_data.json): contains data in semi-structured format where each object represents a sentence with entities stored in a separate 'entities' key, as requested
