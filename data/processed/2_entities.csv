@@ -1,0 +1,19 @@
+entity,entity_lemmatized,label,start_char,end_char,document_id,paragraph_id,sent_id
+Honiara,honiara,GPE,165,172,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,2,1
+Manasseh Sogavare,manasseh sogavare,ORG,0,17,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,3,1
+Solomon Islands,solomon islands,GPE,51,66,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,3,1
+Solomon Islands dollars,solomon islands dollar,ORG,172,195,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,4,1
+SBD,sbd,ORG,200,203,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,4,1
+Sogavare,sogavare,ORG,54,62,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,5,1
+Emmy,emmy,PERSON,77,81,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,5,1
+OCCRP,occrp,ORG,208,213,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,5,1
+In-Depth Solomons,in-depth solomons,ORG,218,235,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,5,1
+Honiara,honiara,PERSON,102,109,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,6,1
+Rick Houenipwela,rick houenipwela,PERSON,0,16,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,7,1
+Lungga,lungga,GPE,144,150,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,7,1
+Manasseh,manasseh,ORG,16,24,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,10,1
+Lungga,lungga,PERSON,128,134,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,10,1
+ANZ,anz,ORG,96,99,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,11,1
+the Embassy of Taiwan,the embassy of taiwan,ORG,134,155,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,11,1
+Sogavare,sogavare,ORG,235,243,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,11,2
+Taiwan,taiwan,GPE,266,272,solomon-islands-pm-has-millions-in-property-raising-questions-around-wealth,11,2
